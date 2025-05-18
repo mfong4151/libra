@@ -1,0 +1,21 @@
+{
+    "ignored_files":[
+        ".gitignore",
+        "tsconfig.json",
+        "package-lock.json",
+        "package.json"
+
+    ],
+    "ignored_folders":[
+        "node_modules",
+        "__pycache__",
+        "build"
+    ],
+    "names_to_sanitize":[
+       "voyager",
+        "Ugc",
+        "UGC",
+        "ugc"
+    ]
+
+}
